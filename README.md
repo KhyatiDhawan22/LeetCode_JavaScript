@@ -44,7 +44,7 @@ To get started with the challenge, you'll need:
 
 ## Challenge Overview
 
-Here is a brief overview of what you'll be learning each day:
+Here is a brief overview of learnings of each day:
 
 - **Day 1:**  2667. Hello World : Closures
 - **Day 2:**  2620. Counter : Closures
