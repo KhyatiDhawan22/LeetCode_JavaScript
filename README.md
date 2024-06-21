@@ -1,6 +1,6 @@
 # <img src="https://github.com/KhyatiDhawan22/LeetCode_JavaScript/assets/112753105/de9ccd57-94ff-411a-bb9f-848dbefe82f3" alt="leetCodeGiffy-ezgif com-resize" width="80" height="80"> 30 Days of JavaScript Programming Challenge 
 <div align="center" style="margin: 30px;">
-    <img alt="refine logo" src="https://github.com/KhyatiDhawan22/LeetCode_JavaScript/assets/112753105/a26b0f80-5ebd-412a-a264-4afd184683a5">
+    <img alt="refine logo" src="https://www.canva.com/design/DAGIxaujrIs/kG629j7n6_Vt-xh5UHqOTw/view?utm_content=DAGIxaujrIs&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 </div>
 <br/>
 Welcome to the **30 Days of JavaScript Programming Challenge** repository! This repository contains all the solutions to the problems solved during the 30-day challenge to learn and master JavaScript programming. Each day covers a different aspect of JavaScript, from basics to advanced concepts, providing a comprehensive learning experience.
