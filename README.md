@@ -46,36 +46,36 @@ To get started with the challenge, you'll need:
 
 Here is a brief overview of what you'll be learning each day:
 
-- **Day 1:** Introduction to JavaScript and setup
-- **Day 2:** Variables and Data Types
-- **Day 3:** Operators
-- **Day 4:** Conditionals
-- **Day 5:** Loops
-- **Day 6:** Functions
-- **Day 7:** Arrays
-- **Day 8:** Objects
-- **Day 9:** DOM Manipulation
-- **Day 10:** Events
-- **Day 11:** Error Handling
-- **Day 12:** JSON
-- **Day 13:** LocalStorage
-- **Day 14:** Regular Expressions
-- **Day 15:** Debugging
-- **Day 16:** ES6 Features
-- **Day 17:** Promises
-- **Day 18:** Async/Await
-- **Day 19:** Fetch API
-- **Day 20:** Classes
-- **Day 21:** Inheritance
-- **Day 22:** Modules
-- **Day 23:** Set and Map
-- **Day 24:** Date and Time
-- **Day 25:** Webpack
-- **Day 26:** Babel
-- **Day 27:** Testing with Jest
-- **Day 28:** Node.js Basics
-- **Day 29:** Express.js Basics
-- **Day 30:** Final Project
+- **Day 1:** 2667. Hello World : Closures
+- **Day 2:** 2620. Counter : Closures
+- **Day 3:** 2704. To Be Or Not To Be : Closures
+- **Day 4:** 2665. Counter II : Closures
+- **Day 5:** 2635. Apply Transform Over Each Element in Array : Basic Array Transformations
+- **Day 6:** 2634. Filter Elements from Array : Basic Array Transformations
+- **Day 7:** 2626. Array Reduce Transformation : Basic Array Transformations
+- **Day 8:** 2629. Function Composition : Function Transformations
+- **Day 9:** 2703. Return Length of Arguments Passed : Function Transformations
+- **Day 10:** 2666. Allow One Function Call : Function Transformations
+- **Day 11:** 2623. Memoize : Function Transformations 
+- **Day 12:** 2723. Add Two Promises : Promises and Time
+- **Day 13:** 2621. Sleep : Promises and Time
+- **Day 14:** 2715. Timeout Cancellation : Promises and Time
+- **Day 15:** 2725. Interval Cancellation : Promises and Time
+- **Day 16:** 2637. Promise Time Limit : Promises and Time
+- **Day 17:** 2622. Cache With Time Limit : Promises and Time
+- **Day 18:** 2627. Debounce : Promises and Time
+- **Day 19:** 2721. Execute Asynchronous Functions in Parallel : Promises and Time
+- **Day 20:** 2727. Is Object Empty : JSON
+- **Day 21:** 2677. Chunk Array : JSON
+- **Day 22:** 2619. Array Prototype Last : JSON
+- **Day 23:** 2631. Group By : JSON
+- **Day 24:** 2724. Sort By : JSON
+- **Day 25:** 2722. Join Two Arrays by ID : JSON
+- **Day 26:** 2625. Flatten Deeply Nested Array : JSON
+- **Day 27:** 2705. Compact Object : JSON
+- **Day 28:** 2694. Event Emitter : Classes
+- **Day 29:** 2695. Array Wrapper : Classes
+- **Day 30:** 2726. Calculator with Method Chaining : Classes
 
 ## How to Use This Repository
 
