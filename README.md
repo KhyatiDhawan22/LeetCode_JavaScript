@@ -1,5 +1,5 @@
 # <img src="https://github.com/KhyatiDhawan22/LeetCode_JavaScript/assets/112753105/de9ccd57-94ff-411a-bb9f-848dbefe82f3" alt="leetCodeGiffy-ezgif com-resize" width="80" height="80"> 30 Days of JavaScript Programming Challenge 
-<div align="center" style="margin: 10px;">
+<div align="center" style="margin: 30px;">
     <img alt="refine logo" src="https://github.com/KhyatiDhawan22/LeetCode_JavaScript/assets/112753105/a26b0f80-5ebd-412a-a264-4afd184683a5">
 </div>
 <br/>
