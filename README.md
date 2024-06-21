@@ -27,8 +27,8 @@ To get started with the challenge, you'll need:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/30-days-of-js-challenge.git
-    cd 30-days-of-js-challenge
+    git clone https://github.com/KhyatiDhawan22/LeetCode_JavaScript.git
+    cd LeetCode_JavaScript
     ```
 
 2. Install dependencies (if any):
