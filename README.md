@@ -5,7 +5,7 @@
 </div>
 <br/>
 
-Welcome to the **30 Days of JavaScript Programming Challenge** repository! This repository contains all the solutions to the problems solved during the 30-day challenge to learn and master JavaScript programming. Each day covers a different aspect of JavaScript, from basics to advanced concepts, providing a comprehensive learning experience.
+Welcome to the **30 Days of Js Programming Challenge** repository! This repository contains all the solutions to the problems solved during the 30-day challenge to learn and master JavaScript programming. Each day covers a different aspect of JavaScript, from basics to advanced concepts, providing a comprehensive learning experience.
 
 ## Table of Contents
 
