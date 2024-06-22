@@ -1,11 +1,11 @@
-# <img src="https://github.com/KhyatiDhawan22/LeetCode_JavaScript/assets/112753105/de9ccd57-94ff-411a-bb9f-848dbefe82f3" alt="leetCodeGiffy-ezgif com-resize" width="80" height="80">30 Days of JavaScript Programming Challenge 
+# <img src="https://github.com/KhyatiDhawan22/LeetCode_JavaScript/assets/112753105/de9ccd57-94ff-411a-bb9f-848dbefe82f3" alt="leetCodeGiffy-ezgif com-resize" width="80" height="80">30 Days of Js Programming Challenge 
 
 <div align="center" style="margin: 10px;" >
 <img alt="LeetCode" src="https://github.com/KhyatiDhawan22/LeetCode_JavaScript/assets/112753105/57e0fa3d-bfb7-4b88-ad38-c8e13032d0f2" width="960" >
 </div>
 <br/>
 
-Welcome to the **30 Days of Js Programming Challenge** repository! This repository contains all the solutions to the problems solved during the 30-day challenge to learn and master JavaScript programming. Each day covers a different aspect of JavaScript, from basics to advanced concepts, providing a comprehensive learning experience.
+Welcome to the **30 Days of JavaScript Programming Challenge** repository! This repository contains all the solutions to the problems solved during the 30-day challenge to learn and master JavaScript programming. Each day covers a different aspect of JavaScript, from basics to advanced concepts, providing a comprehensive learning experience.
 
 ## Table of Contents
 
