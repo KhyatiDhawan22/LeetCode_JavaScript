@@ -1,4 +1,4 @@
-# <img src="https://github.com/KhyatiDhawan22/LeetCode_JavaScript/assets/112753105/de9ccd57-94ff-411a-bb9f-848dbefe82f3" alt="leetCodeGiffy-ezgif com-resize" width="60" height="60"> 30 Days of JavaScript
+# <img src="https://github.com/KhyatiDhawan22/LeetCode_JavaScript/assets/112753105/de9ccd57-94ff-411a-bb9f-848dbefe82f3" alt="leetCodeGiffy-ezgif com-resize" width="50" height="50"> 30 Days of JavaScript
 <div align="center" style="margin: 10px;" >
 <img alt="LeetCode" src="https://github.com/KhyatiDhawan22/LeetCode_JavaScript/assets/112753105/57e0fa3d-bfb7-4b88-ad38-c8e13032d0f2" width="960" >
 </div>
