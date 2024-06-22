@@ -45,10 +45,10 @@ To get started with the challenge, you'll need:
 
 Here is a brief overview of learnings of each day:
 
-- **Day 1:**  2667. Hello World : Closures
-- **Day 2:**  2620. Counter : Closures
-- **Day 3:**  2704. To Be Or Not To Be : Closures
-- **Day 4:**  2665. Counter II : Closures
+- **Day 1:**  2809. Hello World : Closures
+- **Day 2:**  2732. Counter : Closures
+- **Day 3:**  2813. To Be Or Not To Be : Closures
+- **Day 4:**  2789. Counter II : Closures
 - **Day 5:**  2635. Apply Transform Over Each Element in Array : Basic Array Transformations
 - **Day 6:**  2634. Filter Elements from Array : Basic Array Transformations
 - **Day 7:**  2626. Array Reduce Transformation : Basic Array Transformations
